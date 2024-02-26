@@ -1,3 +1,4 @@
+//sunday itodo ameh
 pluginManagement {
     def flutterSdkPath = {
         def properties = new Properties()
